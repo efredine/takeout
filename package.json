@@ -1,0 +1,12 @@
+{
+  "name": "takeout",
+  "version": "1.0.0",
+  "description": "Scrape urls I've emailed to myself.",
+  "main": "index.js",
+  "repository": "git@github.com:efredine/takeout.git",
+  "author": "Eric Fredine <eric.fredine@beanworks.com>",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^2.0.0"
+  }
+}
